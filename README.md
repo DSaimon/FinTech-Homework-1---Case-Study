@@ -1,6 +1,6 @@
 Bunq Case Study Slides - https://docs.google.com/presentation/d/e/2PACX-1vRzT-bvkvrJ_j94f0bFn6Dv0G1jw7DPTiuN_biM4iN0HgC35fOJ2Su_EHI2FJ1gkIEuhmeQxTZ1hVQq/pub?start=false&loop=false&delayms=3000
 
-# FinTech-Homework-1---Case-Study BUNQ
+# FinTech-Homework-1---Case-Study BUNQ - Mohan N
 	
 	
 
