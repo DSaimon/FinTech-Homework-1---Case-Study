@@ -1,11 +1,10 @@
-                                # FinTech-Homework-1---Case-Study BUNQ
-
-
-
-
+# FinTech-Homework-1---Case-Study BUNQ
+	
+	
 
 	Bunq caught my attention because it toted itself as a “bank built by coders”. It was founded in 2012 by Iranian born Ali Niknam.
 He came from a background in IT and was an original founder of TransIP; 
+
 the largest Domain registrar in the Netherlands.  After some reading about Ali remarks on past and future projects it would 
 come to no surprise that Bunq started out as a kind of brainchild project along the vein of a humanitarian effort. 
 With Bunq Ali’s approach is aimed at achieving two goals; Removing the conventional brick-and-mortar associated with banks 
