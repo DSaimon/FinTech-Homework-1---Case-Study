@@ -2,8 +2,10 @@
 
 
 
-	Bunq caught my attention because it toted itself as a “bank built by coders”. 
-It was founded in 2012 by Iranian born Ali Niknam. He came from a background in IT and was an original founder of TransIP; 
+
+
+	Bunq caught my attention because it toted itself as a “bank built by coders”. It was founded in 2012 by Iranian born Ali Niknam.
+He came from a background in IT and was an original founder of TransIP; 
 the largest Domain registrar in the Netherlands.  After some reading about Ali remarks on past and future projects it would 
 come to no surprise that Bunq started out as a kind of brainchild project along the vein of a humanitarian effort. 
 With Bunq Ali’s approach is aimed at achieving two goals; Removing the conventional brick-and-mortar associated with banks 
@@ -14,17 +16,14 @@ that make it stand out, for better or worse.
 	Funding for Bunq remained completely devoid of an external Venture Capitalists. The founders felt that this would 
 really take away from their ability to make Bunq a truly customer centric focused company, especially in its’ infancy.
 The majority of initial funding would be classified as seed capital with no claims to any company control. Ali claims
-this was a necessity.  By Sept 2015 they had raised 16.7 million Euros. By November the same year they were able to release their 
-first beta mobile app. There is definitely a difference in a way a company is run when trying to maximize shareholder value as
-opposed to focusing on growing its customer base as well as satisfaction.
+this was a necessity.  By Sept 2015 they had raised 16.7 million Euros. By November the same year they were able to 
+release their first beta mobile app. There is definitely a difference in a way a company is run when trying to maximize 
+shareholder value as opposed to focusing on growing its customer base as well as satisfaction.
 	I think itis important to look back before the rise of companies like Bunq and see where the demand for innovation was
-coming from. Like many Fintech solutions Bunq is a company born from the need break down the so called current “value chain”. As well
-as being inspired by the frustrations of the global financial crisis in 2008. The idea of Fintech has been around but definitely got
-thrown into the spot light when bankers, investors and regulators all looked for a way to fix the mess they were in. Looking at how 
-it happened would prove to give good insight on how to develop better methods going forward.
+coming from. Like many Fintech solutions Bunq is a company born from the need break down the so called current “value chain”. 
+As well as being inspired by the frustrations of the global financial crisis in 2008. The idea of Fintech has been around but definitely got thrown into the spot light when bankers, investors and regulators all looked for a way to fix the mess they were in. Looking at how it happened would prove to give good insight on how to develop better methods going forward.
 	Many point to deregulation as the primary catalyst for the meltdown. Since then heavy financial regulations in the 
-form of acts have been slapped down to avoid the same type of disaster. The regulatory costs for staying in compliance became not 
-just another burden, but an additional paywall trying to get into the Financial sector. The “Dodd-Frank” act, a set of
+form of acts have been slapped down to avoid the same type of disaster. The regulatory costs for staying in compliance became not just another burden, but an additional paywall trying to get into the Financial sector. The “Dodd-Frank” act, a set of
 regulations put into place in response to the financial meltdown in 2008, alone has costs banking more than $36 billion 
 since 2008. Using Fintech to reduce costs for all of these new “mobile banks” is a must have to remain competitive 
 amongst peers. It is estimated that among the traditional banks their overall yearly spending costs can be anywhere between 
@@ -35,8 +34,7 @@ and potential unique difference from country to country within the union. Just t
 the industry, like many others, they are able consider compliance as part of their current design when developing their 
 value-chain process. Having most of it in code also means it is much easier to manage changes with any new regulatory act 
 or policy.
-	Each of Bunq’s approach to designing each one of its services has started from the customer’s view. Bunq initial goal was 
-to be the first easy to use mobile friendly bank in the Netherlands by putting together suite of functions on a 
+	Each of Bunq’s approach to designing each one of its services has started from the customer’s view. Bunq initial goal was to be the first easy to use mobile friendly bank in the Netherlands by putting together suite of functions on a 
 single platform. They tied together the ability to interact with a lot of commonly used methods present in the EU 
 already. Being able to send money by doing away with an IBAN or SWIFT code appealed to many. Couple that with a service 
 that integrated with SEPA (conventional EU cross-country method) and popular remittance services like TransferWise, Bunq 
@@ -56,36 +54,9 @@ the expenses in the current value-chain model and how increasingly common financ
 effective. There are various Blockchain endeavors that showcase its transparency as a bid to win the appeal for ethically minded 
 consumers. After looking at some of Bunq’s campaigns they seem to fail making these kinds of connections for their audiences. 
 Room for improvement certainly exists within Bunq’s campaign efforts.
-	With the above in mind, the company definitely scoops up the simple yet savvy minded user. The company wants to appeal from
-anyone who needs a simple banking solution as well as down to individuals who need a sophisticated way to execute transactions
-and retrieve data. That could be someone who needs a no-frills simple method of storing and moving money around the EU quickly and
-cheaply. As well as an entity that needs a way to access funds programmatically; the ability to send\receive funds automatically and
-program physical cards with a set of rules. They even provide an open API along with a support team and community forum! I concede that
-this feature is probably only available for a very small percentage. I think its availability alone though is part of it’s “We are
-coders not bankers” and its “Bank of the people” persona.
-	Bunq does not have the typical fees associated with a bank. They Market their company as a “bank with a social conscience” They
-have 3 different “products\services”, which have a static monthly fee. I think the appeal for a potential user is the level of details
-and notes Bunq has available for you. From VAT calculation, tax prep statements, 3rd party software integration to personalized notes
-for receipts. 
-Bunq measure’s their success on the number of new accounts that have opened and remained active since it’s inception. Like many
-other companies they constantly request feedback and suggestions from their users to continue to make their service in demand. 
-There are quite a few competitors in Bunq’s arena. MX platform, KonyDBX, N26 Bank Account, Chime, Azimo, World Remit etc. Technology 
-wise Bunq doesn’t stand out. It has what is quickly becoming more and more standard in its realm’s competition; Application software, 
-online banking, mobile app, fintech backed money transfers and payments etc. Bunq is also probably on the lower end in terms of profit 
-margin but it has a particular draw across the arena in terms of wide functionality and ease of adoption. They have interesting products 
-with some great feedback such as a card with dual PINs. You are able to pay for purchases from 2 different account depending on the PIN.
-Great solution for managing a joint account. From a user prospective, this level of ease of management is very attractive. Not to mention 
-its green appeal with campaigns which will plant trees with use if it’s “Green Card” product.  It definitely has caught the attention from 
-younger investors and people just entering the workforce. In addition to all of this, in an effort to appeal to the financially cynical, 
-Bunq only invests the bare minimum of account holder money in order to hold a Banking license.  One might argue this could be lost potential 
-revenue, but Bunq sees this as a value in security for their customers. Bunq even gives you the choice for where you invest that bare
-minimum for the yearly .32%. Those options are: Personal Lending, Personal Mortgages, Green Companies, All Companies, Other Bank Loans.
-It absolutely caters to the financially ethically minded persona. If one did some research on how banks have operated with customer 
-finances in the past this might serve as a breath of fresh air. Regardless of how effective it is globally green appeal and ethically 
-sound economics has a marketing value. Bunq makes it a point to remind you they are a different kind of company every chance they get.
-Some of Bunqs shortcomings have less to do witht hier use of technology and more to do with thier customer offerings. 
-Some from an investors point of view and some from dissatisfied customers. There are some critical of Bunqs monthly fee of 8 Euros while 
-there are a few alternatives without as many features. Consumers argue that most users will not use more than 1 banking card and that the 
+	With the above in mind, the company definitely scoops up the simple yet savvy minded user. The company wants to appeal from anyone who needs a simple banking solution as well as down to individuals who need a sophisticated way to execute transactions and retrieve data. That could be someone who needs a no-frills simple method of storing and moving money around the EU quickly and cheaply. As well as an entity that needs a way to access funds programmatically; the ability to send\receive funds automatically and program physical cards with a set of rules. They even provide an open API along with a support team and community forum! I concede that this feature is probably only available for a very small percentage. I think its availability alone though is part of it’s “We are coders not bankers” and its “Bank of the people” persona. Bunq does not have the typical fees associated with a bank. They Market their company as a “bank with a social conscience” They have 3 different “products\services”, which have a static monthly fee. I think the appeal for a potential user is the level of details
+and notes Bunq has available for you. From VAT calculation, tax prep statements, 3rd party software integration to personalized notes for receipts.  Bunq measure’s their success on the number of new accounts that have opened and remained active since it’s inception. Like many other companies they constantly request feedback and suggestions from their users to continue to make their service in demand. There are quite a few competitors in Bunq’s arena. MX platform, KonyDBX, N26 Bank Account, Chime, Azimo, World Remit etc. Technology wise Bunq doesn’t stand out. It has what is quickly becoming more and more standard in its realm’s competition; Application software, online banking, mobile app, fintech backed money transfers and payments etc. Bunq is also probably on the lower end in terms of profit margin but it has a particular draw across the arena in terms of wide functionality and ease of adoption. They have interesting products with some great feedback such as a card with dual PINs. You are able to pay for purchases from 2 different account depending on the PIN. Great solution for managing a joint account. From a user prospective, this level of ease of management is very attractive. Not to mention its green appeal with campaigns which will plant trees with use if it’s “Green Card” product.  It definitely has caught the attention from younger investors and people just entering the workforce. In addition to all of this, in an effort to appeal to the financially cynical, Bunq only invests the bare minimum of account holder money in order to hold a Banking license.  One might argue this could be lost potential 
+revenue, but Bunq sees this as a value in security for their customers. Bunq even gives you the choice for where you invest that bare minimum for the yearly .32%. Those options are: Personal Lending, Personal Mortgages, Green Companies, All Companies, Other Bank Loans. It absolutely caters to the financially ethically minded persona. If one did some research on how banks have operated with customer finances in the past this might serve as a breath of fresh air. Regardless of how effective it is globally green appeal and ethically sound economics has a marketing value. Bunq makes it a point to remind you they are a different kind of company every chance they get. Some of Bunqs shortcomings have less to do witht hier use of technology and more to do with thier customer offerings. Some from an investors point of view and some from dissatisfied customers. There are some critical of Bunqs monthly fee of 8 Euros while there are a few alternatives without as many features. Consumers argue that most users will not use more than 1 banking card and that the 
 API might appeal to .1% of all Bunq users. Another major complaint
 is that there are limited account features when using a browser outside of your mobile device. I have definitely seen this trend amongst 
 newer companies. For most of these companies it is an attempt to control user experience. There are plenty of competitors that offer a 
