@@ -2,7 +2,12 @@
 	
 	
 
-	Bunq caught my attention because it toted itself as a “bank built by coders”. It was founded in 2012 by Iranian born Ali Niknam.
+	
+	
+	
+	
+
+Bunq caught my attention because it toted itself as a “bank built by coders”. It was founded in 2012 by Iranian born Ali Niknam.
 He came from a background in IT and was an original founder of TransIP; 
 
 the largest Domain registrar in the Netherlands.  After some reading about Ali remarks on past and future projects it would 
